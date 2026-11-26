@@ -188,9 +188,9 @@ Con esto activado el cliente puede ejecutar diagnósticos IA con Teoría de Rest
 
 ```
 Dominio:            demo.innovarketing.com
-NOCODB_API_TOKEN:   ikSwEjVGYEmOinLPhweaIn7VSHQCcBeOz8br9UG-
-URL tabla leads:    https://crm.nutraclinic.pe/api/v2/tables/mpbgjqphs0yncva/records
-DASHBOARD_PASSWORD: nutraclinic2026
+NOCODB_API_TOKEN:   <en EasyPanel, no se publica>
+URL tabla leads:    <en EasyPanel, no se publica>
+DASHBOARD_PASSWORD: <en EasyPanel, no se publica>
 ```
 
 ---
